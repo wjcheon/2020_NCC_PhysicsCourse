@@ -2,9 +2,9 @@
   
   
 ## Class 
-Mar 13; Review of physical principles & Clinical radiation oncology (Ph.D 신동호)
+Mar 13; Review of physical principles & Clinical radiation oncology (Ph.D Dongho Shin)
   
-Mar 20; X-ray production & Clinical X-ray unit (Ph.D 황의중)
+Mar 20; X-ray production & Clinical X-ray unit (Ph.D HwangUi Jung)
 material:
 youtube: 
 
@@ -13,6 +13,6 @@ youtube:
 
 
 
-<img src = https://github.com/wjcheon/CBCT_Gate_optm/blob/master/CBCT_Geometry.png />  
-Fig.1 Geometry of simulation: Cylinderical phamtom and detector   
+<img src = https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/visual.png />  
+
 
