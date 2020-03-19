@@ -11,8 +11,10 @@ youtube:
 
 
 
+<p align="center">
+  <img src = https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/visual.png /></div>
+</p>
 
 
-<div style="text-align:center"><img src = https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/visual.png /></div>
 
 
