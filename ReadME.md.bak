@@ -2,101 +2,101 @@
   
   
 ## Class 
-**Mar 13**; Review of physical principles & Clinical radiation oncology (Ph.D Dongho Shin)  
+**Mar 13**; Review of physical principles & Clinical radiation oncology (Ph.D Dongho Shin)<br/>
   
-**Mar 20**; X-ray production & Clinical X-ray unit (Ph.D Uijung Hwang)  
+**Mar 20**; X-ray production & Clinical X-ray unit (Ph.D Uijung Hwang)<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Aug 7**; Linear accelerators, Betatrons, Cyclotrons, Co-60 units, Heavy particle therapy
+**Aug 7**; Linear accelerators, Betatrons, Cyclotrons, Co-60 units, Heavy particle therapy<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Apr 3**; Exposure, Ionization chambers, Radiation quality
+**Apr 3**; Exposure, Ionization chambers, Radiation quality<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Apr 17**; Absorbed dose, B-G theory and calibratio protocol
+**Apr 17**; Absorbed dose, B-G theory and calibratio protocol<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Apr 24**; Alternative dosimetric methods: TLD, Film, and etc.
+**Apr 24**; Alternative dosimetric methods: TLD, Film, and etc.<br/>
 material:<br/>
 youtube: <br/>
 	  
-**May 22**; Phantoms, Percent depth dose, Tissue air ratio, Scatter air ratio
+**May 22**; Phantoms, Percent depth dose, Tissue air ratio, Scatter air ratio<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Jun 5**; X-ray Tissue maximum ratio, Clinical dose calculations, Dose calculations system, Irregular field
+**Jun 5**; X-ray Tissue maximum ratio, Clinical dose calculations, Dose calculations system, Irregular field<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Jun 19**; Isodose distribution
+**Jun 19**; Isodose distribution<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Jun 26**; CT, MRI, Ultrasound physics and EPID
+**Jun 26**; CT, MRI, Ultrasound physics and EPID<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Jul 3**; Gamma camera, PET, PET/CT, Nuclear medicine
+**Jul 3**; Gamma camera, PET, PET/CT, Nuclear medicine<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Jul 24**; Treatment planning: mannual and computer applications, field shapping, skin dose, gapping techniques
+**Jul 24**; Treatment planning: mannual and computer applications, field shapping, skin dose, gapping techniques<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Aug 14**; Electron beam fundamentals and Electron beam calculation techniques
+**Aug 14**; Electron beam fundamentals and Electron beam calculation techniques<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Aug 21**; Electron beam clinical example
+**Aug 21**; Electron beam clinical example<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Aug 28**; Brachytherapy dose calculations, Linear and point models, Brachytherapy localization, Brachytherapy dosimetry systems, Clinical examples
+**Aug 28**; Brachytherapy dose calculations, Linear and point models, Brachytherapy localization, Brachytherapy dosimetry systems, Clinical examples<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Sep 4**; Radiation protection and regulatory concerns
+**Sep 4**; Radiation protection and regulatory concerns<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Sep 11**; Acceptance testing and quality assurance
+**Sep 11**; Acceptance testing and quality assurance<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Sep 25**; Total body irradiation
+**Sep 25**; Total body irradiation<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Oct 16**; Three-dimensional conformal radiation therapy
+**Oct 16**; Three-dimensional conformal radiation therapy<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Oct 23**; Intensity modulated radiation thrapy
+**Oct 23**; Intensity modulated radiation thrapy<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Oct 30**; Stereotactic radiosurgery, Stereotactic body radiosurgery
+**Oct 30**; Stereotactic radiosurgery, Stereotactic body radiosurgery<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Nov 6**; High dose rate brachytherapy, prostate implants, Intravascular brachythrapy
+**Nov 6**; High dose rate brachytherapy, prostate implants, Intravascular brachythrapy<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Nov 20**; Image-guided radiation therapy 
+**Nov 20**; Image-guided radiation therapy<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Nov 27**; Proton beam therapy
+**Nov 27**; Proton beam therapy<br/>
 material:<br/>
 youtube: <br/>
 		  
-**Dec 4**; Special seminar
+**Dec 4**; Special seminar<br/>
 material:<br/>
 youtube: <br/>
 
