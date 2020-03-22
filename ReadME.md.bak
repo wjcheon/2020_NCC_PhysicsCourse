@@ -5,8 +5,8 @@
 **Mar 13**; Review of physical principles & Clinical radiation oncology *(Ph.D Dongho Shin)* <br/>
   
 **Mar 20**; X-ray production & Clinical X-ray unit *(Ph.D Uijung Hwang)*<br/>
-material:<br/>
-youtube: <br/>
+material: see documentation [here](myLib/materials/Khan Ch3&4_X-ray production and Linac2020.pdf) <br/>
+youtube: https://www.youtube.com/watch?v=GLo9qWL6Lz8&t=1225s <br/>
 	  
 **Aug 7**; Linear accelerators, Betatrons, Cyclotrons, Co-60 units, Heavy particle therapy<br/>
 material:<br/>
