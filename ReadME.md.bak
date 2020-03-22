@@ -2,9 +2,9 @@
   
   
 ## Class 
-**Mar 13**; Review of physical principles & Clinical radiation oncology (Ph.D Dongho Shin)<br/>
+**Mar 13**; Review of physical principles & Clinical radiation oncology *(Ph.D Dongho Shin)* <br/>
   
-**Mar 20**; X-ray production & Clinical X-ray unit (Ph.D Uijung Hwang)<br/>
+**Mar 20**; X-ray production & Clinical X-ray unit *(Ph.D Uijung Hwang)*<br/>
 material:<br/>
 youtube: <br/>
 	  
