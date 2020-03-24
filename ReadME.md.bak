@@ -2,11 +2,15 @@
   
   
 ## Class 
-**Mar 13**; Review of physical principles & Clinical radiation oncology *(Ph.D Dongho Shin)* <br/>
+**Mar 13**; Review of physical principles & Clinical radiation oncology *(Ph.D DH Shin)* <br/>
   
-**Mar 20**; X-ray production & Clinical X-ray unit *(Ph.D Uijung Hwang)*<br/>
+**Mar 20**; X-ray production & Clinical X-ray unit *(Ph.D. UJ Hwang)*<br/>
 material: see documentation: [here](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/Khan%20Ch3%264_X-ray%20production%20and%20Linac2020.pdf) <br/>
 youtube: https://www.youtube.com/watch?v=GLo9qWL6Lz8&t=1225s <br/>
+
+**Mar 27**; Proton beam therapy *Ph.D. SB Lee*<br/>
+material:<br/>
+youtube: <br/>
 	  
 **Aug 7**; Linear accelerators, Betatrons, Cyclotrons, Co-60 units, Heavy particle therapy<br/>
 material:<br/>
@@ -91,11 +95,7 @@ youtube: <br/>
 **Nov 20**; Image-guided radiation therapy<br/>
 material:<br/>
 youtube: <br/>
-		  
-**Nov 27**; Proton beam therapy<br/>
-material:<br/>
-youtube: <br/>
-		  
+		  		  
 **Dec 4**; Special seminar<br/>
 material:<br/>
 youtube: <br/>
