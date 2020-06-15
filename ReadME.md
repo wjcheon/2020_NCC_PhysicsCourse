@@ -17,19 +17,19 @@ material:<br/>
 youtube: <br/>
 	  
 **Apr 3**; Exposure, Ionization chambers, Radiation quality *(Ph.D. DO Shin)*<br/>
-material: None<br/>
+material: see the document [here](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200403_Ch%206.7%20%EC%A0%84%EB%A6%AC%EB%B0%A9%EC%82%AC%EC%84%A0%EB%9F%89_%EC%B8%A1%EC%A0%95_NCC_20%EB%85%84.ppt) <br/> 
 youtube: None<br/>
 	  
 **Apr 17**; Absorbed dose, B-G theory and calibratio protocol *(Ph.D. DO Shin)*<br/>
-material: None<br/>
+material: see the document [here](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200417_Ch%208%20%ED%9D%A1%EC%88%98%EC%84%A0%EB%9F%89%20%EC%B8%A1%EC%A0%95_NCC_20%EB%85%84.ppt) <br/> 
 youtube: None<br/>
 	  
 **Apr 22**; Alternative dosimetric methods: TLD, Film, and etc. *(Ph.D. DH Shin)*<br/>
-material: here <br/>
+material: see the document [here](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200424_%EC%8B%A0%EB%8F%99%ED%98%B8%20Ch.%208%20Alternative%20dosimetry.ppt) <br/>
 youtube: https://youtu.be/2tlamcEzWAw<br/>
 	  
 **Jun 15**; Phantoms, Percent depth dose, Tissue air ratio, Scatter air ratio *(Ph.D. KW Kim)*<br/>
-material: here<br/>
+material: see the document [here](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200612_%EA%B5%AD%EB%A6%BD%EC%95%94%EC%84%BC%ED%84%B0%EA%B0%95%EC%9D%98%20Ch9-khan202006.pptx) <br/> 
 youtube: https://youtu.be/arKr1RWNDoE<br/>
 	  
 **Jun 5**; X-ray Tissue maximum ratio, Clinical dose calculations, Dose calculations system, Irregular field<br/>
