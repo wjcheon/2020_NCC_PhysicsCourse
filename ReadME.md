@@ -28,14 +28,22 @@ youtube: None<br/>
 material: see the document [[here]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200424_%EC%8B%A0%EB%8F%99%ED%98%B8%20Ch.%208%20Alternative%20dosimetry.ppt) <br/>
 youtube: https://youtu.be/2tlamcEzWAw<br/>
 	  
+**Jun 8**; X-ray Tissue maximum ratio, Clinical dose calculations, Dose calculations system, Irregular field *(Ph.D. HD Heo)*<br/>
+material: None<br/>
+youtube: None<br/>
+
 **Jun 15**; Phantoms, Percent depth dose, Tissue air ratio, Scatter air ratio *(Ph.D. KW Kim)*<br/>
 material: see the document [[here]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200612_%EA%B5%AD%EB%A6%BD%EC%95%94%EC%84%BC%ED%84%B0%EA%B0%95%EC%9D%98%20Ch9-khan202006.pptx) <br/> 
-youtube: https://youtu.be/arKr1RWNDoE<br/>
+youtube: https://youtu.be/arKr1RWNDoE<br/>  
 	  
-**Jun 5**; X-ray Tissue maximum ratio, Clinical dose calculations, Dose calculations system, Irregular field<br/>
+**Jun 19**; Heavy particle therpay *(Ph.D. JS Kim)*<br/>
 material:<br/>
 youtube: <br/>
-	  
+
+
+
+
+
 **Jun 19**; Isodose distribution<br/>
 material:<br/>
 youtube: <br/>
