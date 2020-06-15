@@ -16,21 +16,21 @@ youtube: https://youtu.be/0psFLxOUdYg<br/>
 material:<br/>
 youtube: <br/>
 	  
-**Apr 3**; Exposure, Ionization chambers, Radiation quality<br/>
-material:<br/>
-youtube: <br/>
+**Apr 3**; Exposure, Ionization chambers, Radiation quality *(Ph.D. DO Shin)*<br/>
+material: None<br/>
+youtube: None<br/>
 	  
-**Apr 17**; Absorbed dose, B-G theory and calibratio protocol<br/>
-material:<br/>
-youtube: <br/>
+**Apr 17**; Absorbed dose, B-G theory and calibratio protocol *(Ph.D. DO Shin)*<br/>
+material: None<br/>
+youtube: None<br/>
 	  
-**Apr 24**; Alternative dosimetric methods: TLD, Film, and etc.<br/>
-material:<br/>
-youtube: <br/>
+**Apr 22**; Alternative dosimetric methods: TLD, Film, and etc. *(Ph.D. DH Shin)*<br/>
+material: here <br/>
+youtube: https://youtu.be/2tlamcEzWAw<br/>
 	  
-**May 22**; Phantoms, Percent depth dose, Tissue air ratio, Scatter air ratio<br/>
-material:<br/>
-youtube: <br/>
+**Jun 15**; Phantoms, Percent depth dose, Tissue air ratio, Scatter air ratio *(Ph.D. KW Kim)*<br/>
+material: here<br/>
+youtube: https://youtu.be/arKr1RWNDoE<br/>
 	  
 **Jun 5**; X-ray Tissue maximum ratio, Clinical dose calculations, Dose calculations system, Irregular field<br/>
 material:<br/>
