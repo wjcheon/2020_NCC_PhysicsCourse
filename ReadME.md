@@ -38,9 +38,15 @@ youtube: https://youtu.be/arKr1RWNDoE<br/>
 	  
 **Jun 19**; Heavy particle therpay *(Ph.D. JS Kim)*<br/>
 material:<br/>
+youtube: <br/> https://youtu.be/2xfCsU2h92o<br/>
+
+**Jun 24**; CT, MRI, Ultrasound physics and EPID *(Ph.D. HC Jung)*<br/>
+material:<br/>
+youtube: <br/> None
+	  
+**Jul 3**; Gamma camera, PET, PET/CT, Nuclear medicine *(Ph.D. HC Jung)*<br/>
+material:<br/>
 youtube: <br/>
-
-
 
 
 
@@ -48,13 +54,7 @@ youtube: <br/>
 material:<br/>
 youtube: <br/>
 	  
-**Jun 26**; CT, MRI, Ultrasound physics and EPID<br/>
-material:<br/>
-youtube: <br/>
-	  
-**Jul 3**; Gamma camera, PET, PET/CT, Nuclear medicine<br/>
-material:<br/>
-youtube: <br/>
+
 	  
 **Jul 24**; Treatment planning: mannual and computer applications, field shapping, skin dose, gapping techniques<br/>
 material:<br/>
