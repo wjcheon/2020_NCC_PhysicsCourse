@@ -41,7 +41,7 @@ material: [[here]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master
 youtube: https://youtu.be/2xfCsU2h92o<br/>
 
 **Jun 24**; CT, MRI, Ultrasound physics and EPID *(Ph.D. HC Jung)*<br/>
-material:<br/> [[here1]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-CT%20(one)-2020-NCC-CT%20Basic%20Principles.pdf), [[here2]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-CT%20(two)-2020-NCC--CT%20Clinical%20Applications.pdf), [[here3]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-MRI-A-2020-NCC-Physics%20of%20MRI-Basic%20Principle.pdf), [[here4]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-MRI-B-2020-NCC-Physics%20of%20MRI-Clinical%20Applications.pdf)<br/>
+material: [[here1]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-CT%20(one)-2020-NCC-CT%20Basic%20Principles.pdf), [[here2]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-CT%20(two)-2020-NCC--CT%20Clinical%20Applications.pdf), [[here3]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-MRI-A-2020-NCC-Physics%20of%20MRI-Basic%20Principle.pdf), [[here4]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/200624-MRI-B-2020-NCC-Physics%20of%20MRI-Clinical%20Applications.pdf)<br/>
 youtube: <br/> None
 	  
 **Jul 3**; Gamma camera, PET, PET/CT, Nuclear medicine *(Ph.D. HC Jung)*<br/>
