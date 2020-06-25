@@ -3,7 +3,9 @@
   
 ## Class 
 **Mar 13**; Review of physical principles & Clinical radiation oncology *(Ph.D DH Shin)* <br/>
-  
+material: None <br/>
+youtube: None <br/>
+
 **Mar 20**; X-ray production & Clinical X-ray unit *(Ph.D. UJ Hwang)*<br/>
 material: see the document [[here]](https://github.com/wjcheon/2020_NCC_PhysicsCourse/blob/master/materials/Khan%20Ch3%264_X-ray%20production%20and%20Linac2020.pdf) <br/>
 youtube: https://www.youtube.com/watch?v=GLo9qWL6Lz8&t=1225s <br/>
